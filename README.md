@@ -88,6 +88,7 @@ PHP version 7.2 or higher is required, with the following extensions installed:
 - [intl](http://php.net/manual/en/intl.requirements.php)
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
+- [Read More](https://www.phpcodingstuff.com/category/laravel-7-tutorial.html)
 
 Additionally, make sure that the following extensions are enabled in your PHP:
 
